@@ -1,0 +1,13 @@
+# 계정 정보 — 절대 커밋하지 않는다
+config.json
+
+# 실행 중 생성되는 파일
+etd_cache.json
+BPT_Delete_Report_*.xlsx
+
+# 빌드 산출물 / 캐시
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc

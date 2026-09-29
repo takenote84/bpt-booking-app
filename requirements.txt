@@ -1,0 +1,6 @@
+playwright
+pywinauto
+pyautogui
+pyperclip
+openpyxl
+pywin32
